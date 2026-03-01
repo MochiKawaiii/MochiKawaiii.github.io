@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#0a0e27"/>
+  <!-- Outer ring glow -->
+  <circle cx="256" cy="256" r="200" stroke="#0044aa" stroke-width="2" fill="none" opacity="0.3"/>
+  <!-- Search circle -->
+  <circle cx="230" cy="220" r="100" stroke="#00aaff" stroke-width="26" fill="none"/>
+  <!-- Search handle -->
+  <line x1="306" y1="296" x2="400" y2="390" stroke="#00aaff" stroke-width="28" stroke-linecap="round"/>
+  <!-- Inner glow circle -->
+  <circle cx="230" cy="220" r="70" fill="#00aaff" opacity="0.08"/>
+  <!-- Bing-like B letter inside -->
+  <text x="200" y="248" font-family="Arial, sans-serif" font-weight="bold" font-size="90" fill="#00aaff" opacity="0.7">B</text>
+</svg>
